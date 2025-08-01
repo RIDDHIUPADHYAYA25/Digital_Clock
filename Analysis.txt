@@ -1,0 +1,36 @@
+🕒 Initial Requirements Gathering: Digital Clock Project
+1. Project Objective
+"Can you describe the purpose of the digital clock project? Is it for home use, educational, commercial, or embedded in another system like IoT or Arduino?"
+
+2. Key Features Requested
+Some examples to consider:
+- Time display format: 12-hour, 24-hour, or both?
+- Include date and day?
+- Alarm or stopwatch functionality?
+- Brightness adjustment?
+- Battery backup or power options?
+3. Display Type Preference
+"Do you have a preference for the display—LED, LCD, OLED, or a custom touchscreen interface?"
+
+4. Integration or Platform
+"Should the clock be built on a microcontroller like Arduino or Raspberry Pi, or is it a software application for desktop/mobile/web?"
+
+5. Design Constraints
+Let’s clarify:
+- Size or dimensions
+- Budget range
+- Deadline/timeline
+- Target users (e.g., children, elderly, hobbyists)
+6. Optional Advanced Features
+Would they be interested in:
+- Syncing with internet time servers (NTP)?
+- Bluetooth or Wi-Fi connectivity?
+- Voice control or smart assistant integration?
+7. Visual & User Interface Preferences
+"Any ideas on color scheme, layout, or buttons? Should the interface be touch-based or controlled via external switches?"
+
+8. Deliverables Expected
+"Would you like a complete product with casing or just the circuit and code? Should documentation be included for future reference or education?"
+
+
+
